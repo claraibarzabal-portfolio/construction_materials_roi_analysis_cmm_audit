@@ -32,7 +32,7 @@ By thoroughly analyzing the ROI and CMM’s strategic decisions, this project pr
 
 1. **[ROI Analysis and Visualization (in Spanish)](https://github.com/claraibarzabal-portfolio/construction_materials_roi_analysis_cmm_audit/blob/main/Anal%C3%ADtica_auditor%C3%ADa_CMM_Paraguay_Jun2024.ipynb):** Detailed analysis of ROI with data cleaning, histogram analysis, and bar chart visualizations.
 2. **[Colab Notebook for ROI Analysis (in English)](https://github.com/claraibarzabal-portfolio/construction_materials_roi_analysis_cmm_audit/blob/main/roi_analysis_english.ipynb):** Comprehensive data analysis notebook, including preprocessing and visualization.
-3. **[Looker Dashboard for ROI Analysis (in Spanish)]((https://github.com/claraibarzabal-portfolio/construction_materials_roi_analysis_cmm_audit/blob/main/Reporte_CMM_Latam_P1_Ene-Abr_P2_Links.pdf)):** Interactive dashboard for exploring ROI data.
+3. **[Looker Dashboard for ROI Analysis (in Spanish)](https://github.com/claraibarzabal-portfolio/construction_materials_roi_analysis_cmm_audit/blob/main/Reporte_CMM_Latam_P1_Ene-Abr_P2_Links.pdf):** Interactive dashboard for exploring ROI data.
 
 ### Data Preprocessing
 
